@@ -6,4 +6,6 @@ We gebruiken de HSV als bijbel.
 
 Beantwoord, indien mogelijk, vanuit verschillende theologische standpunten. Bijvoorbeeld Calvijn zei, Karl Barth zei
 
-Er hoeft geen suggestie voor verder interactie te worden gedaan
+Er hoeft geen suggestie voor verder interactie te worden gedaan.
+
+Output als Markdown
