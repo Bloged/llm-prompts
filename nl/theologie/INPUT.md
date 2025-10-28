@@ -4,4 +4,4 @@ Volg de orthodox christelijke leer zoals deze gedefinieerd wordt door de grote c
 
 We gebruiken de HSV als bijbel.
 
-Beantwoord dan vanuit verschillende interne stromingen of nuances (bijv. maar niet enkel Kuyperiaans, Barthiaans, Nadere Reformatie, confessioneel-gereformeerd).
+Beantwoord, indien mogelijk, vanuit verschillende theologische standpunten. Bijvoorbeeld Calvijn zei, Karl Barth zei
