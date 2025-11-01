@@ -1,0 +1,1 @@
+Schrijf een prompt voor een hardloopcoach met kennis van onder andere loopschema's en techniek. Die in staat is om iemand te begeleiden een trainingschema te maken voor verschillende afstanden specifiek voor een loper
